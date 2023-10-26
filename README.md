@@ -17,13 +17,15 @@ Operating Systems play a crucial role in ensuring the security of software. This
 
 ## First Practice - File Interaction
 
-In the first practice, we have developed a program that allows interaction with files in various formats. You can use this program to perform the following tasks:
+The first practice involves developing a program for interacting with files in various formats, allowing you to perform the following tasks:
 
-- **Create Files**: Easily create new files in different formats.
-- **Modify Files**: Make changes to existing files.
-- **Delete Files**: Remove unwanted files.
+- **Output Information to the Console**: Display information about logical disks, including names, volume labels, sizes, and file system types.
+- **Working with Files**: Utilizes various .NET classes such as `File`, `FileInfo`, `FileStream`, and others for efficient file operations.
+- **Working with JSON Format**: Provides functionality for working with JSON data, allowing you to read, write, and manipulate JSON files.
+- **Working with XML Format**: Supports XML file operations, including parsing and modifying XML data.
+- **Creating a Zip Archive**: Enables the creation of a zip archive and the addition of files to the archive.
 
-The code for this practice is designed to be modular and reusable, allowing you to extend its functionality according to your needs.
+The code for this practice is designed to be modular and reusable, allowing you to work with different file formats and perform a variety of file-related tasks.
 
 ## Second Practice - Password Strength Verification
 
